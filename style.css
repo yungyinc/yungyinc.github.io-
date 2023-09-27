@@ -6,9 +6,6 @@ body{
     margin-top:50px;
     width: 50%;
     margin: 0 auto;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
-
 }
 body a{
     color:cadetblue;
@@ -28,7 +25,7 @@ header{
 
 header ul{
     position:absolute;
-    right: 1vw;
+    right: 0.1vw;
     top:0;
     line-height: 25px;
 }
