@@ -4,14 +4,15 @@ body{
     width:800px;
     margin-left:25px;
     margin-top:50px;
-    width: 50%;
+    width: 55%;
     margin: 0 auto;
 }
 body a{
     color:cadetblue;
     text-decoration:none;
-    font-size: large;
+    font-size: medium;
     font-weight: bold;
+
 }
 body a:hover{
     text-decoration: underline;
@@ -52,7 +53,8 @@ main h1{
 }
 body b{
     font-weight:bolder;
-    color:tomato;
+    color:salmon;
+    font-size: medium;
 }
 .paper img{
     -webkit-filter: grayscale(80);
