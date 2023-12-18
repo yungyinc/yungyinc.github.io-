@@ -4,14 +4,13 @@ body{
     width:800px;
     margin-left:25px;
     margin-top:50px;
-    width: 55%;
+    width: 40%;
     margin: 0 auto;
 }
 body a{
-    color:cadetblue;
+    color:blue;
     text-decoration:none;
     font-size: medium;
-    font-weight: bold;
 
 }
 body a:hover{
@@ -36,7 +35,7 @@ header li{
 }
 
 main h1{
-    color:coral;
+    color:black;
     font-size: xx-large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight:bolder;
@@ -48,12 +47,12 @@ main h1{
 }
 
 .start{
-    background-color:bisque;
+    background-color:whitesmoke;
 
 }
 body b{
-    font-weight:bolder;
-    color:salmon;
+    /* font-weight:bolder; */
+    color:black;
     font-size: medium;
 }
 .paper img{
